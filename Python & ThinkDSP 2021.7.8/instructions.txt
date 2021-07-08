@@ -1,0 +1,21 @@
+介绍：
+
+
+
+本内容为2021年上半年的课程作业，对于教程为Allen B.Downey编写的《Python数字信号处理应用。ISBN 978-7-115-46952-6。
+
+将该python文件放在全英文路径下运行，并将声音文件（wav）与python文件放在同一文件夹内。这样才能够调用到。
+其他内容可以在GitHub上查询ThinkDSP
+另外，该书也配备了答案。可以在书本练习题目同页找到。
+
+
+
+可以在Anaconda3（64-bit）上运行，其它软件不一定可以完全运行。（比如VSCode）
+
+-----------------------------------------------------------------
+使用前：
+
+
+
+将experiment codes文件夹与experiment3、experiment4、experiment5文件拖到同一个全英文路径的文件夹内（中文路径会导致报错）。
+然后再把experiment codes文件夹内的全部内容都拖出来。（experiment codes文件夹就空了）目的是让experiment3、experiment4、experiment5文件在运行时可以直接调用一些wav格式的文件（这些都可以在ThinkDSP文件夹的code文件夹内找到。
